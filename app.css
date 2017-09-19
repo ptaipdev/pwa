@@ -1,0 +1,19 @@
+.container {
+    width:500px;
+    height: 500px;
+    background-color: #FFAACC;
+    border: 2px solid #DDCCAA;
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.child {
+   width:200px;
+   height:200px;
+   display: inline-block;
+   border: 1px solid blue;
+   padding: 20px;
+   margin-top: 20px;
+   
+}
